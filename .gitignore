@@ -1,0 +1,19 @@
+# Swift Package Manager build output
+.build/
+.swiftpm/
+*.xcodeproj/xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# Packaged artifacts
+dist/
+*.dmg
+*.dmg.sha256
+*.zip
+
+# macOS
+.DS_Store
+._*
+
+# Local configuration
+*.local.xcconfig
